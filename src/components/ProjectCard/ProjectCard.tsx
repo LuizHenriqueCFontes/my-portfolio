@@ -9,7 +9,7 @@ const projects = [
     title: 'abrigo animais',
     description: 'Plataforma web para conectar animais de rua com possíveis adotantes, com foco em usabilidade e compaixão.',
     tech: ['React', 'Tailwind CSS', 'Firebase'], // Exemplo
-    github: 'https://github.com/LuizHenriqueCFontes/abrigo_animais',
+    github: 'https://github.com/LuizHenriqueCFontes/abrigo-animais',
   },
 ];
 
