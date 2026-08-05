@@ -4,7 +4,7 @@ const Header: React.FC = () => {
       <div className="max-w-4xl mx-auto flex flex-col items-center">
         {/* Placeholder para a foto de perfil gerada */}
         <img 
-          src="/profile_generated.png" // Salve a imagem gerada como profile_generated.png em /public
+          src="profile_generated.png" // Salve a imagem gerada como profile_generated.png em /public
           alt="Luiz Henrique Carvalho Fontes"
           className="w-40 h-40 rounded-full border-4 border-teal-400 mb-6 object-cover"
         />
